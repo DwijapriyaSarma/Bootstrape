@@ -1,0 +1,14 @@
+p {
+    background-color: red;  
+}  
+.classSelector{
+    background-color: yellow; 
+}
+#myid{
+
+    background-color: brown;
+}
+
+a[target]{
+    background-color: blue;
+}
